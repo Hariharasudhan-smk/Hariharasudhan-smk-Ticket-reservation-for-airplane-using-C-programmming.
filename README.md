@@ -1,0 +1,2 @@
+# Hariharasudhan-smk-Ticket-reservation-for-airplane-using-C-programmming.
+This is a simple C-based command-line project for booking airplane tickets. It allows users to enter passenger details, destination, and seat class (Economy or Business), and view all booked tickets. The program uses structures and arrays to manage data and is ideal for beginners learning file-less ticket management systems in C.
